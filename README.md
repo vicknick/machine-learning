@@ -8,7 +8,7 @@
 
 ### Modules  
 ___
-+ #### Feature Selection
++ **Feature Selection**
     + Principal Component Analysis (PCA)
 
 
