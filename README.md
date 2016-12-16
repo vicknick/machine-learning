@@ -7,7 +7,6 @@
 >These tutorials, expressed through the means of IPython Notebook, is an effort to increase the literacy in the field of machine learning, going beyond the regular import statements to concepts like how it works, why it works and when it will work.
 
 ### Modules  
-
 + ##### Feature Selection
     + Principal Component Analysis (PCA)
 
