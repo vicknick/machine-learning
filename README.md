@@ -9,9 +9,10 @@
 ### Modules  
 ___
 + **Feature Selection**
-    + Principal Component Analysis (PCA)
+    + [Principal Component Analysis (PCA)][pcalink]
 
 
 
 
 [mlpic]: images/ml.png
+[pcalink]: http://bit.ly/pcalink
